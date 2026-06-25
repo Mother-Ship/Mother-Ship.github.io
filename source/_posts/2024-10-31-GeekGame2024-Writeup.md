@@ -4,6 +4,8 @@ tags:
   - CTF
 abbrlink: 27fd42b3
 date: 2024-10-31 17:25:58
+categories:
+  - 2024-10
 ---
 
 ### GeekGame 2024 Writeup

@@ -4,6 +4,8 @@ tags:
   - CTF
 abbrlink: 161e12c5
 date: 2024-11-09 14:25:58
+categories:
+  - 2024-11
 ---
 
 ## Hackergame 2024 Writeup

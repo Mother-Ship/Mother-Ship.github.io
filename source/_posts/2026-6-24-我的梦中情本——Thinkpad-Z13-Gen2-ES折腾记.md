@@ -1,8 +1,10 @@
 ---
-title: 2026-6-24-我的梦中情本——Thinkpad_Z13_Gen2_ES折腾记
+title: 2026-6-24-我的梦中情本——Thinkpad Z13 Gen2 ES折腾记
 abbrlink: 1f78eff0
 date: 2026-06-24 17:24:22
 tags:
+categories:
+  - 2026-06
 ---
 
 ### 工作变动
